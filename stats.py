@@ -14,8 +14,8 @@ def get_num_char(text):
     return char_value
 
 def sort_on(items):
-       """Sorts items based on highest value to lowest."""
-       return items["num"]
+    """Sorts items based on highest value to lowest."""
+    return items["num"]
 
 def book_bot(num):
     """Makes a dictionary of char and num and puts them into a list."""
